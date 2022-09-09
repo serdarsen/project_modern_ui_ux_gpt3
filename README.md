@@ -1,7 +1,7 @@
 # Modern UI/UX GPT-3
 ### [Live Site](https://project-modern-ui-ux-gpt3.netlify.app/)
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+![Modern UI/UX GPT-3](./screenshot.png)
 
 ## Introduction
 This is a project that converts a Figma template into a modern React application. 
